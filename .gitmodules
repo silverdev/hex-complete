@@ -1,0 +1,15 @@
+[submodule "HexGame_Android"]
+	path = HexGame_Android
+	url = git@github.com:Xlythe/HexGame_Android.git
+[submodule "hex-net"]
+	path = hex-net
+	url = git@github.com:silverdev/hex-net.git
+[submodule "hex-ai"]
+	path = hex-ai
+	url = git@github.com:Xlythe/hex-ai.git
+[submodule "hex-core"]
+	path = hex-core
+	url = git@github.com:Xlythe/hex-core.git
+[submodule "HexGame"]
+	path = HexGame
+	url = git@github.com:silverdev/HexGame
